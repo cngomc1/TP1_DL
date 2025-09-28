@@ -17,7 +17,7 @@ Le modèle est entraîné sur 60 000 images d’entraînement et évalué sur 10
 
 ## **Prérequis**
 
-* Python 3.12+ (64 bits recommandé)
+* Python 3.10+ (64 bits recommandé)
 * TensorFlow 2.x
 * Numpy
 
