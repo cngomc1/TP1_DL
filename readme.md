@@ -51,6 +51,17 @@ Le script :
 * Évalue la précision sur les données de test
 * Sauvegarde le modèle sous `mnist_model.h5`
 
+```bash
+python app.py
+```
+
+Exécuter ce fichier lance une application flask qui permet de dessiner à la ain un digit
+
+* Charge et normalise les données MNIST
+* Crée le modèle Dense + Dropout + Softmax
+* Entraîne le modèle sur 5 epochs avec batch_size 128
+* Évalue la précision sur les données de test
+* Sauvegarde le modèle sous `mnist_model.h5`
 
 ## **Explications**
 

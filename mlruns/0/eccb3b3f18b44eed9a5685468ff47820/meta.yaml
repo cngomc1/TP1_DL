@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/Cours/5GI_S1/TPs_DL/TP1_DL/mlruns/0/eccb3b3f18b44eed9a5685468ff47820/artifacts
+end_time: 1759072127233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eccb3b3f18b44eed9a5685468ff47820
+run_name: selective-duck-486
+run_uuid: eccb3b3f18b44eed9a5685468ff47820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072102070
+status: 4
+tags: []
+user_id: PC

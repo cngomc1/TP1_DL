@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/Cours/5GI_S1/TPs_DL/TP1_DL/mlruns/0/dd6949699c49473890627839994b36d2/artifacts
+end_time: 1759072879224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd6949699c49473890627839994b36d2
+run_name: tasteful-ant-801
+run_uuid: dd6949699c49473890627839994b36d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072826422
+status: 3
+tags: []
+user_id: PC

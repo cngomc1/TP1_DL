@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/Cours/5GI_S1/TPs_DL/TP1_DL/mlruns/0/eaaef4c095a447da83583c12c1cf46e9/artifacts
+end_time: 1759072359648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaaef4c095a447da83583c12c1cf46e9
+run_name: handsome-quail-255
+run_uuid: eaaef4c095a447da83583c12c1cf46e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072321610
+status: 3
+tags: []
+user_id: PC
